@@ -11,29 +11,10 @@
 
 	<url>https://github.com/avivas/nginx-maven-plugin</url>
 
-	<issueManagement>
-		<system>GitHub</system>
-		<url>https://github.com/avivas/nginx-maven-plugin/issues/</url>
-	</issueManagement>
+	
 
-	<developers>
-		<developer>
-			<id>avivas</id>
-			<name>Alejandro Vivas</name>
-			<roles>
-				<role>Plugin Developer</role>
-			</roles>
-			<timezone>-5:00</timezone>
-		</developer>
-	</developers>
 
-	<scm>
-		<connection>scm:git:https://github.com/avivas/nginx-maven-plugin.git</connection>
-		<developerConnection>scm:git:ssh://git@/github.com/avivas/nginx-maven-plugin.git</developerConnection>
-		<url>https://github.com/avivas/nginx-maven-plugin</url>
-		<tag>HEAD</tag>
-	</scm>
-
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
