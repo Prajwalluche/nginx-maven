@@ -7,9 +7,9 @@
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 
-	<name>nginx-maven-plugin Maven Plugin</name>
+	<name>nginx-maven-plugin nginx-maven</name>
 
-	<url>https://github.com/avivas/nginx-maven-plugin</url>
+	<url>https://github.com/Prajwalluche/nginx-maven</url>
 
 	
 
